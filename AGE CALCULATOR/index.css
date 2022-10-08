@@ -1,0 +1,23 @@
+body{
+    background: url(/images/numeb.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h2{
+    color: white;
+}
+input{
+    border-radius: 2rem;
+   
+   color: black;
+   text-align: center;
+}
+button{
+    border-radius: 2rem;
+    color: black;
+    cursor: pointer;
+}
+p{
+    color: aliceblue;
+    margin-top: 32.5rem;
+}
